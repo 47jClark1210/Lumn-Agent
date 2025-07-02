@@ -1,0 +1,8 @@
+{
+    "skill": "CSS and Styling",
+    "description": "Proficiency in CSS and styling frameworks.",
+    "course": {
+        "title": "Styling React Components",
+        "url": "https://www.pluralsight.com/courses/styling-react-components"
+    }
+}

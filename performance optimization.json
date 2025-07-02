@@ -1,0 +1,8 @@
+{
+    "skill": "Performance Optimization",
+    "description": "Skills in optimizing performance.",
+    "course": {
+        "title": "Optimizing and Deploying Applications in Next.js 15",
+        "url": "https://www.pluralsight.com/courses/nextjs-15-optimizing-deploying-applications"
+    }
+}

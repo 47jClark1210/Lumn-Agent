@@ -1,0 +1,8 @@
+{
+    "skill": "API Integration",
+    "description": "Creating and integrating API routes.",
+    "course": {
+        "title": "Data Fetching and API Routes in Next.js 14",
+        "url": "https://www.pluralsight.com/courses/nextjs-14-data-fetching-api-routes"
+    }
+}

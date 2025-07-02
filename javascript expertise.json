@@ -1,0 +1,8 @@
+{
+    "skill": "JavaScript Expertise",
+    "description": "Mastery of modern JavaScript (ES6+).",
+    "course": {
+        "title": "JavaScript: Getting Started",
+        "url": "https://www.pluralsight.com/courses/javascript-getting-started"
+    }
+}

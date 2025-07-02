@@ -1,0 +1,6 @@
+title: Lumn Agent Skills
+description: A collection of skills for the Lumn Agent, built with Jekyll and GitHub Pages.
+author: 47jClark1210
+baseurl: "/JSON-files" # the subpath of your site, e.g. /blog
+url: "https://47jClark1210.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal # replace with your chosen theme
