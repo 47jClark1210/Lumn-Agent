@@ -4,5 +4,9 @@
     "course": {
         "title": "Debugging JavaScript",
         "url": "https://47jClark1210.github.io/Lumn-Agent/problem-solving.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["Debugging", "JavaScript", "Problem-Solving", "Development Tools"],
+    "level": "intermediate",
+    "duration": "1.5 hours"
 }

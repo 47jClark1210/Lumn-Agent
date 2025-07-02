@@ -4,5 +4,9 @@
     "course": {
         "title": "Styling React Components",
         "url": "https://47jClark1210.github.io/Lumn-Agent/css_and_styling.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["CSS", "Styling", "React", "UI Design", "Frontend"],
+    "level": "intermediate",
+    "duration": "1.5 hours"
 }

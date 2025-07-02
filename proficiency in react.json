@@ -4,6 +4,9 @@
    "course": {
      "title": "React: Getting Started",
      "url": "https://47jClark1210.github.io/Lumn-Agent/proficiency_in_react.json"
-   }
- }
-
+   },
+   "author": "Plural Sight",
+  "tags": ["React", "Components", "Hooks", "State Management", "Frontend"],
+  "level": "beginner",
+  "duration": "2 hours"
+}

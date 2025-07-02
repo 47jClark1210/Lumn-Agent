@@ -4,5 +4,9 @@
     "course": {
         "title": "Data Fetching and API Routes in Next.js 14",
         "url": "https://47jClark1210.github.io/Lumn-Agent/api_integration.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["Next.js", "API", "Data Fetching", "Web Development"],
+    "level": "intermediate",
+    "duration": "2 hours"
 }

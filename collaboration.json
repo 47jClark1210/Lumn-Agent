@@ -4,5 +4,9 @@
     "course": {
         "title": "Git: The Big Picture",
         "url": "https://47jClark1210.github.io/Lumn-Agent/collaboration.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["Git", "Collaboration", "Version Control", "Teamwork"],
+    "level": "beginner",
+    "duration": "1 hour"
 }

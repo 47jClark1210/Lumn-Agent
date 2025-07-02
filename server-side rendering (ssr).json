@@ -4,5 +4,9 @@
     "course": {
         "title": "Next.js 14: Foundations",
         "url": "https://47jClark1210.github.io/Lumn-Agent/server-side_rendering_(ssr).json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["SSR", "Next.js", "Server-Side Rendering", "Web Performance", "Data Fetching"],
+    "level": "intermediate",
+    "duration": "1.5 hours"
 }

@@ -1,8 +1,12 @@
 {
-    "skill": "Server-Side Rendering (SSR)",
-    "description": "Using SSR to fetch data on each request.",
-    "course": {
-        "title": "Next.js 14: Foundations",
-        "url": "https://47jClark1210.github.io/Lumn-Agent/statis_site_generation_(ssg).json"
-    }
+  "skill": "Static Site Generation (SSG)",
+  "description": "Using SSG to pre-render pages at build time for performance and scalability.",
+  "course": {
+    "title": "Next.js 14: Foundations",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/static_site_generation_(ssg).json"
+  },
+  "author": "Plural Sight",
+  "tags": ["SSG", "Next.js", "Static Site Generation", "Web Performance", "Build Optimization"],
+  "level": "intermediate",
+  "duration": "1.5 hours"
 }

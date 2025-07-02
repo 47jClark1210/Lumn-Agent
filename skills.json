@@ -1,0 +1,42 @@
+[
+  {
+    "name": "API Integration",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/api_integration.json"
+  },
+  {
+    "name": "Collaboration",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/collaboration.json"
+  },
+  {
+    "name": "Continuous Learning",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/continuous_learning.json"
+  },
+  {
+    "name": "CSS and Styling",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/css_and_styling.json"
+  },
+  {
+    "name": "JavaScript Expertise",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/javascript_expertise.json"
+  },
+  {
+    "name": "Performance Optimization",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/performance_optimization.json"
+  },
+  {
+    "name": "Problem-Solving",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/problem-solving.json"
+  },
+  {
+    "name": "Proficiency in React",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/proficiency_in_react.json"
+  },
+  {
+    "name": "Server-Side Rendering (SSR)",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/server-side_rendering_(ssr).json"
+  },
+  {
+    "name": "Static Site Generation (SSG)",
+    "url": "https://47jClark1210.github.io/Lumn-Agent/statis_site_generation_(ssg).json"
+  }
+]

@@ -4,5 +4,9 @@
     "course": {
         "title": "JavaScript: Getting Started",
         "url": "https://47jClark1210.github.io/Lumn-Agent/javascript_expertise.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["JavaScript", "ES6+", "Programming", "Frontend", "Web Development"],
+    "level": "beginner",
+    "duration": "2 hours"
 }

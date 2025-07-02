@@ -4,5 +4,9 @@
     "course": {
         "title": "Staying Current with JavaScript",
         "url": "https://47jClark1210.github.io/Lumn-Agent/continuous_learning.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["JavaScript", "Continuous Learning", "Web Development", "Trends"],
+    "level": "intermediate",
+    "duration": "1.5 hours"
 }

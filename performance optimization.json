@@ -4,5 +4,9 @@
     "course": {
         "title": "Optimizing and Deploying Applications in Next.js 15",
         "url": "https://47jClark1210.github.io/Lumn-Agent/performance_optimization.json"
-    }
+    },
+    "author": "Plural Sight",
+    "tags": ["Performance", "Optimization", "Next.js", "Deployment", "Web Development"],
+    "level": "advanced",
+    "duration": "2 hours"
 }
