@@ -1,6 +1,17 @@
-title: Lumn Agent Skills
-description: A collection of skills for the Lumn Agent, built with Jekyll and GitHub Pages.
-author: 47jClark1210
-baseurl: "/JSON-files" # the subpath of your site, e.g. /blog
-url: "https://47jClark1210.github.io" # the base hostname & protocol for your site
-theme: jekyll-theme-Modernist # replace with your chosen theme
+title: My JSON Skill Manifests
+description: A collection of skill manifest files
+markdown: kramdown
+theme: jekyll-theme-Modernist
+plugins:
+  - jekyll-seo-tag
+
+# Optional: if you want to include custom directories
+include:
+  - _layouts
+  - assets
+
+# Optional: if you want to exclude certain files or folders
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
