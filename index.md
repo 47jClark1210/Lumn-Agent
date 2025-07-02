@@ -7,7 +7,7 @@ title: My JSON Skill Manifests
 
 Below are links to the hosted JSON skill manifest files:
 
-- [API Integration](api%20intergration.json)
+- [API Integration](api%20integration.json)
 - [Collaboration](collaboration.json)
 - [Continuous Learning](continuous%20learning.json)
 - [CSS and Styling](css%20and%20styling.json)
