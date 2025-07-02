@@ -1,7 +1,7 @@
 title: My JSON Skill Manifests
 description: A collection of skill manifest files
 markdown: kramdown
-theme: jekyll-theme-Modernist
+theme: jekyll-theme-minima
 plugins:
   - jekyll-seo-tag
 
