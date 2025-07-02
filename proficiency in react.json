@@ -1,8 +1,9 @@
-{
-  "skill": "Proficiency in React",
-  "description": "Understanding React fundamentals like components, hooks, state, and props.",
-  "course": {
-    "title": "React: Getting Started",
-    "url": "https://www.pluralsight.com/courses/react-getting-started"
-  }
-}
+ {
+   "skill": "Proficiency in React",
+   "description": "Understanding React fundamentals like components, hooks, state, and props.",
+   "course": {
+     "title": "React: Getting Started",
+     "url": "https://47jClark1210.github.io/Lumn-Agent/proficiency_in_react.json"
+   }
+ }
+
